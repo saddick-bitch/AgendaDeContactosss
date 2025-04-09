@@ -1,0 +1,10 @@
+C:\Users\marce\source\repos\AgendaDeContactos 2.0\Agenda.EL\bin\Debug\Agenda.EL.dll
+C:\Users\marce\source\repos\AgendaDeContactos 2.0\Agenda.EL\bin\Debug\Agenda.EL.pdb
+C:\Users\marce\source\repos\AgendaDeContactos 2.0\Agenda.EL\obj\Debug\Agenda.EL.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\AgendaDeContactos 2.0\Agenda.EL\obj\Debug\Agenda.EL.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\AgendaDeContactos 2.0\Agenda.EL\obj\Debug\Agenda.EL.dll
+C:\Users\marce\source\repos\AgendaDeContactos 2.0\Agenda.EL\obj\Debug\Agenda.EL.pdb
+C:\Users\marce\source\repos\Para enviar\AgendaDeContactos 2.0\Agenda.EL\obj\Debug\Agenda.EL.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\Para enviar\AgendaDeContactos 2.0\Agenda.EL\obj\Debug\Agenda.EL.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\Para enviar\AgendaDeContactos 2.0\Agenda.EL\obj\Debug\Agenda.EL.dll
+C:\Users\marce\source\repos\Para enviar\AgendaDeContactos 2.0\Agenda.EL\obj\Debug\Agenda.EL.pdb
